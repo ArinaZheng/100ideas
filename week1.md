@@ -8,4 +8,5 @@ PNG: lossless, used mostly for web images, not for printing, allows more colors 
 TIFF: lossless, uncompressed image files, contains a lot of information.
 RAW: no compression, unprocessed image files from a digital camera.
 
+4. Metadata is used by online retailers to track their customers' movements and habits by gathering information about their location, where they shop, etc. In social media, metadata helps with friending someone by showing their profile pictures and a short description, when music app recommend you new music and finding out what people's interests are and show them what they might be interested in. 
 
