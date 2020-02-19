@@ -3,4 +3,11 @@
 https://www.fastcompany.com/90441928/the-making-of-mojo-ar-contact-lenses-that-give-your-eyes-superpowers
 https://www.mojo.vision/mojo-lens
 
-2. 
+2. Sonos headband: Sonos did an installation called the Brilliant Sound Experience. One of the rooms in that installation showcased an EEG headband. When people put the headband on, the device can read 5 different brain waves and project it on the screen. People are able to see their own brainwaves when listening to certain music to get a better understanding at how the brain responds to the music. However, this is just an installation and people can only pick from the songs provided to be able to experience this. 
+
+https://www.trustedreviews.com/news/brilliant-sound-experience-immersive-audio-3927329
+
+3. Dormio: Dormio is a project that people in MIT are working on which has a robot and a glove that you were when you go to sleep. Some people believe that there is a better chance at solving a problem and be more creative when people are in the hypnagogia state when people start dreaming but they are not fully unconcious yet. Before someone goes to sleep, they put on the glove and clench their hand. The sensor gets the pressure and the EEG sensor would monitor the brain electrical activities. The sensors on both hand and head would know when they start falling asleep by relaxed muscle and brain. At the same time, the sensor would trigger the robot Jibo nearby to say programmed phrase. The idea of the project is to plant an idea, thought or something into your brain during the hypnagogia state. Essentially, what the device is doing is to make the hygnagogia state last longer. It doesn't wake you up or let you fall deeper into sleep. 
+
+https://www.vice.com/en_us/article/ywxjvg/steel-ball-control-dreams-dormio-mit-hypnagogia
+https://www.media.mit.edu/projects/sleep-creativity/overview/
