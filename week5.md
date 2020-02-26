@@ -1,13 +1,19 @@
-1. AR contact lenses: These augmented reality lenses (Moji Lens) are being developed by a company called Mojo Vision. It is a product that can  give customer real-time information and images about what they are experencing/seeing in life, like the weather, traffic route, calender, music controler, etc. The idea is that when people use them, the lenses are feeding them what they think the customer should know in that situation and prescription can be built into it. They use minroelectronics, invisible computing is a term that they came up with meaning to stay connected with the world or getting useful information without having a devide in hand and the world's densest microdisplay which they created.  
+Briefly explain the main idea behind the idea/technology you're researching, what is it exactly? what is it for? How does it work?
 
+Mojo lens is an AR contact lens that can provide customers real-time information and images about what they are looking at. According to spectrum.ieee.org Mojo lens has "14K pixels-per-inch microdisplays, wireless radios, image sensors, and motion sensors into contact lenses that fit comfortably in the eyes". 
+Ivisible computing is a concept that Mojo Vision came up with which means staying connected with the world and getting useful information without having a device in your hand which is the ultimate goal for Mojo lens. 
+
+https://spectrum.ieee.org/view-from-the-valley/consumer-electronics/portable-devices/ar-in-a-contact-lens-its-the-real-deal
+
+Who are the important people and/or organizations related to this idea/technology? Don't just list names, briefly explain who these are and what their relationship to your research area is.
+
+Mojo Vision is the company that is working on the AR lens. Drew Perkins started the company in 2015 with the hope to have perfect vision and the superpower to "see" more. Mike Wiemer is the chief technology officer of Mojo Vision. He is a electrical engineer who helps to make this idea come true. Dr. Michael Deering is the chief science officer, he's been working in this field for over a decade and he is focused on working with 3D graphics, VR and AR. Dr Ashley Tuan is the VP of medical devices, she helps the team with all the medical questions they have and work to bridge the gap between optometry and technology.
+
+https://www.mojo.vision/about
+
+
+What are the important historical events/milestones in the development of this technology and why do they seem particularly note worthy?
+
+In 2017, the first mojo lens had single LED and wireless power, then static image was added in during the same year. In 2018, it had microLED display and wireless data. In 2019, it had semi-automated build Oxygenation and it can customized to fit. In the future, it would have high resolution microLED display, fast wireless data, computer vision, eye tracking, battery power. Over the years they keep adding more annd more elements into the lens to make it have more functions. 
 https://www.fastcompany.com/90441928/the-making-of-mojo-ar-contact-lenses-that-give-your-eyes-superpowers
-https://www.mojo.vision/mojo-lens
 
-2. Sonos headband: Sonos did an installation called the Brilliant Sound Experience. One of the rooms in that installation showcased an EEG headband. When people put the headband on, the device can read 5 different brain waves and project it on the screen. People are able to see their own brainwaves when listening to certain music to get a better understanding at how the brain responds to the music. However, this is just an installation and people can only pick from the songs provided to be able to experience this. 
-
-https://www.trustedreviews.com/news/brilliant-sound-experience-immersive-audio-3927329
-
-3. Dormio: Dormio is a project that people in MIT are working on which has a robot and a glove that you were when you go to sleep. Some people believe that there is a better chance at solving a problem and be more creative when people are in the hypnagogia state when people start dreaming but they are not fully unconcious yet. Before someone goes to sleep, they put on the glove and clench their hand. The sensor gets the pressure and the EEG sensor would monitor the brain electrical activities. The sensors on both hand and head would know when they start falling asleep by relaxed muscle and brain. At the same time, the sensor would trigger the robot Jibo nearby to say programmed phrase. The idea of the project is to plant an idea, thought or something into your brain during the hypnagogia state. Essentially, what the device is doing is to make the hygnagogia state last longer. It doesn't wake you up or let you fall deeper into sleep. 
-
-https://www.vice.com/en_us/article/ywxjvg/steel-ball-control-dreams-dormio-mit-hypnagogia
-https://www.media.mit.edu/projects/sleep-creativity/overview/
